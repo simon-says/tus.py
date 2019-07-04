@@ -1,5 +1,9 @@
 # tus.py
-tus (resumable file upload protocol) client in python
+tus (resumable file upload protocol) client compatible with python 3
+
+# Requirements
+
+You must be running Python3 to use tus
 
 # Install
 ```shell
